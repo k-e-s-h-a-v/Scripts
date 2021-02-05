@@ -3,9 +3,7 @@
 // @namespace   https://loader.to
 // @version     1.2
 // @description Browser extension to download videos
-// @author      Keshav Raj
-// @copyright   
-// @homepage    
+// @author      Keshav Raj   
 // @downloadURL 
 // @match          *://*.youtube.com/*
 // ==/UserScript==
